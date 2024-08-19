@@ -36,7 +36,7 @@ The project consists of the following files:
 
 ## GitHub Pages
 
-The project is hosted on GitHub Pages. You can access it [here]((https://github.com/madnan19/Login-System/)
+The project is hosted on GitHub Pages. You can access it [here](https://github.com/madnan19/Login-System/)
 
 ## Note
 
